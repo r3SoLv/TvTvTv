@@ -1,0 +1,35 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260805-235212-fu3q",
+      "title": "Fàelyn",
+      "commanders": [
+        "Fàelyn"
+      ],
+      "guild": {
+        "id": "338573C5-46B5-EE11-BA1F-124BD09C5957",
+        "name": "Les Tempêtes Vaillantes",
+        "tag": "Tv"
+      },
+      "dateStart": "2026-08-05T15:52:12.000Z",
+      "dateEnd": "2026-08-05T16:17:23.000Z",
+      "dateLabel": "8/5/2026, 11:52:12 PM - 8/6/2026, 12:17:23 AM",
+      "url": "https://r3SoLv.github.io/TvTvTv/?report=20260805-235212-fu3q",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 18
+      }
+    }
+  ]
+}
