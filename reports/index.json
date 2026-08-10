@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260810-233451-y2ai",
+      "title": "Circe Trickpaw, Fiendishwumd",
+      "commanders": [
+        "Circe Trickpaw",
+        "Fiendishwumd"
+      ],
+      "guild": {
+        "id": "338573C5-46B5-EE11-BA1F-124BD09C5957",
+        "name": "Les Tempêtes Vaillantes",
+        "tag": "Tv"
+      },
+      "dateStart": "2026-08-10T15:34:51.000Z",
+      "dateEnd": "2026-08-10T16:56:38.000Z",
+      "dateLabel": "8/10/2026, 11:34:51 PM - 8/11/2026, 12:56:38 AM",
+      "url": "https://r3SoLv.github.io/TvTvTv/?report=20260810-233451-y2ai",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260805-235212-fu3q",
       "title": "Fàelyn",
       "commanders": [
