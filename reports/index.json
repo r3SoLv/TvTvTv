@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260901-010834-kb3p",
+      "title": "Aella Shieldpaw",
+      "commanders": [
+        "Aella Shieldpaw"
+      ],
+      "guild": {
+        "id": "338573C5-46B5-EE11-BA1F-124BD09C5957",
+        "name": "Les Tempêtes Vaillantes",
+        "tag": "Tv"
+      },
+      "dateStart": "2026-08-31T17:08:34.000Z",
+      "dateEnd": "2026-08-31T17:50:27.140Z",
+      "dateLabel": "9/1/2026, 1:08:34 AM - 9/1/2026, 1:50:27 AM",
+      "url": "https://r3SoLv.github.io/TvTvTv/?report=20260901-010834-kb3p",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 59,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260821-002156-b5ys",
       "title": "Saladmancer West",
       "commanders": [
