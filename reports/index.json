@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261004-003750-homj",
+      "title": "Chonkolat Tinkleton",
+      "commanders": [
+        "Chonkolat Tinkleton"
+      ],
+      "guild": {
+        "id": "338573C5-46B5-EE11-BA1F-124BD09C5957",
+        "name": "Les Tempêtes Vaillantes",
+        "tag": "Tv"
+      },
+      "dateStart": "2026-10-03T16:37:50.000Z",
+      "dateEnd": "2026-10-03T17:10:05.506Z",
+      "dateLabel": "10/4/2026, 12:37:50 AM - 10/4/2026, 1:10:05 AM",
+      "url": "https://r3SoLv.github.io/TvTvTv/?report=20261004-003750-homj",
+      "summary": {
+        "borderlandsPct": 0.7714285714285715,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20260927-012144-p5aa",
       "title": "Circe Trickpaw",
       "commanders": [
